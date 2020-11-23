@@ -1,0 +1,4 @@
+__pycache__
+yurinas/tools/test_resource/*
+*.pyc
+venv
